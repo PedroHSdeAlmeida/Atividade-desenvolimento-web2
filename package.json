@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/mysql": "^2.15.21",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.3",
+    "promise": "^8.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
